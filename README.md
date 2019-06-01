@@ -1,4 +1,8 @@
 # Loopback Disabler Mixin
+
+[![Build Status](https://travis-ci.com/Danwakeem/loopback-disabler-mixin.svg?branch=master)](https://travis-ci.com/Danwakeem/loopback-disabler-mixin)
+[![Coverage Status](https://coveralls.io/repos/github/Danwakeem/loopback-disabler-mixin/badge.svg?branch=master)](https://coveralls.io/github/Danwakeem/loopback-disabler-mixin?branch=master)
+
 This loopback middleware is an easyish way to disable common remote methods
 
 ## Useage
