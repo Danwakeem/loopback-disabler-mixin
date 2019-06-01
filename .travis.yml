@@ -1,0 +1,12 @@
+language: node_js
+
+node_js:
+- "10"
+
+jobs:
+  include:
+    - stage: "Lint and Test"
+      script: npm run lint
+      name: "Linting"
+    - script: npm run test:travis
+      name: "Test"
